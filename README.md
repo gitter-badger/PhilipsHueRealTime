@@ -1,4 +1,6 @@
 # PhilipsHueRealTime
+
+[![Join the chat at https://gitter.im/manta103g/PhilipsHueRealTime](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/manta103g/PhilipsHueRealTime?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 PhilipsHueRealTime stays for real-time controller and application for Philips Hue LED Lighting
 
 Developed by the Philips Hue Developer, who has tested tens of Philips Hue LED Lighting remote, wireless control applications run on smartphones.
